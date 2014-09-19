@@ -26,7 +26,9 @@ public final class R {
     }
     public static final class id {
         public static final int container=0x7f060000;
+        public static final int quatoButton=0x7f060002;
         public static final int textView=0x7f060001;
+        public static final int upLoadButton=0x7f060003;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -35,5 +37,7 @@ public final class R {
         public static final int action_settings=0x7f050002;
         public static final int app_name=0x7f050000;
         public static final int hello_world=0x7f050001;
+        public static final int quatoButtonText=0x7f050003;
+        public static final int uploadButonText=0x7f050004;
     }
 }
